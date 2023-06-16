@@ -7,3 +7,4 @@ An Azure Data Studio Notebook and other stuff.
 * [PEP-498](https://peps.python.org/pep-0498/) - 04/16/2006 - this f-string implementation combines the best of some previous iterations of string interpolation.
 * [PEP-3101](https://peps.python.org/pep-3101/) - 08/01/2015 - this proposal added a number of the string formatting features.
 * [Geeks for Geeks Tutorial on Python F-Strings](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
+* [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) - a tool that is similar to ADS.
