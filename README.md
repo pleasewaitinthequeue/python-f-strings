@@ -8,3 +8,7 @@ An Azure Data Studio Notebook and other stuff.
 * [PEP-3101](https://peps.python.org/pep-3101/) - 08/01/2015 - this proposal added a number of the string formatting features.
 * [Geeks for Geeks Tutorial on Python F-Strings](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/) - a tool that is similar to ADS.
+
+## Additional Resources
+* [MartinHeinz.dev - Python f-strings Are More Powerful Than You Might Think](https://martinheinz.dev/blog/70)
+* [Towards Data Science - Python f-strings Are More Powerful Than You Might Think](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d)
